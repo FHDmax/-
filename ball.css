@@ -1,0 +1,433 @@
+body {
+    margin: 0;
+}
+.header h1 {
+    font-family: 'Harlow Solid', sans-serif;
+    color: purple;
+}
+.header {
+    background-color: #ffc400;
+    overflow: auto;
+}
+.menu {
+    background-color: #e7b100;
+    overflow: auto;
+}
+.main  {background-color: #f5f5f5;
+    overflow: auto; }
+    .main1  {background-color: #f5f5f5;
+        overflow: auto; }
+        .main2  {background-color: #f5f5f5;
+            overflow: auto; }
+            .main3  {background-color: #f5f5f5;
+                overflow: auto; }
+                .main4  {background-color: #f5f5f5;
+                    overflow: auto; }
+                 .pho {
+                        overflow: auto;
+                        background-color: #F0EDE4; } 
+                 .pho1 {
+                            overflow: auto;
+                            background-color: #F0EDE4; } 
+                .pho2 {
+                                overflow: auto;
+                                background-color: #F0EDE4; } 
+               .pho3 {
+                                    overflow: auto;
+                                    background-color: #F0EDE4; } 
+             .pho4 {
+                                        overflow: auto;
+                                        background-color: #F0EDE4; }
+                                        .footer{
+                                            background-color: rgb(0, 0, 0);
+                                            overflow: auto;
+                                        }                                                                    
+                                        .main  {
+                                            overflow: auto;
+                                            text-align: center;
+                                            background-color: #f5f5f5;
+                                            padding-top: 20px;
+                                            padding-bottom: 20px;
+                                        }
+                                        .main1  {
+                                            overflow: auto;
+                                            text-align: center;
+                                            background-color: #f5f5f5;
+                                            padding-top: 20px;
+                                            padding-bottom: 20px;
+                                        }
+                                        .main2  {
+                                            overflow: auto;
+                                            text-align: center;
+                                            background-color: #f5f5f5;
+                                            padding-top: 20px;
+                                            padding-bottom: 20px;
+                                        }
+                                        .main3  {
+                                            overflow: auto;
+                                            text-align: center;
+                                            background-color: #f5f5f5;
+                                            padding-top: 20px;
+                                            padding-bottom: 20px;
+                                        }
+                                        .main4  {
+                                            overflow: auto;
+                                            text-align: center;
+                                            background-color: #f5f5f5;
+                                            padding-top: 20px;
+                                            padding-bottom: 20px;
+                                        }
+                                        .pho {
+                                            overflow: auto;
+                                            padding-top: 20px;
+                                            padding-bottom: 40px;
+                                            text-align: center;
+                                            background-color: #F0EDE4;
+                                        }
+                                        .pho1 {
+                                            overflow: auto;
+                                            padding-top: 20px;
+                                            padding-bottom: 40px;
+                                            text-align: center;
+                                            background-color: #F0EDE4;
+                                        }
+                                        .pho2 {
+                                            overflow: auto;
+                                            padding-top: 20px;
+                                            padding-bottom: 40px;
+                                            text-align: center;
+                                            background-color: #F0EDE4;
+                                        }
+                                        .pho3 {
+                                            overflow: auto;
+                                            padding-top: 20px;
+                                            padding-bottom: 40px;
+                                            text-align: center;
+                                            background-color: #F0EDE4;
+                                        }
+                                        .pho4 {
+                                            overflow: auto;
+                                            padding-top: 20px;
+                                            padding-bottom: 40px;
+                                            text-align: center;
+                                            background-color: #F0EDE4;
+                                        }
+                                        .footer {
+                                            overflow: auto;
+                                            padding-top: 20px;
+                                            padding-bottom: 20px;
+                                            text-align: center;
+                                            background-color: rgb(10, 10, 10);
+                                        }
+                                        .footer h1 {
+                                            color: #ffffff;
+                                        }
+                                        .footer h2 {
+                                            color: #ffffff;
+                                        }
+                                        .footer p {
+                                            color: #ffffff;
+                                        }
+                                        .pho img {
+                                            border-style: solid;
+                                            border-width: 2px;
+                                            border-color: black;
+                                            border-radius: 6px;
+                                            margin: 2px;
+                                            object-fit: cover;
+                                            object-position: top;
+                                        }
+                                        .pho1 img {
+                                            border-style: solid;
+                                            border-width: 2px;
+                                            border-color: black;
+                                            border-radius: 6px;
+                                            margin: 2px;
+                                            object-fit: cover;
+                                            object-position: top;
+                                        }
+                                        .pho2 img {
+                                            border-style: solid;
+                                            border-width: 2px;
+                                            border-color: black;
+                                            border-radius: 6px;
+                                            margin: 2px;
+                                            object-fit: cover;
+                                            object-position: top;
+                                        }
+                                        .pho3 img {
+                                            border-style: solid;
+                                            border-width: 2px;
+                                            border-color: black;
+                                            border-radius: 6px;
+                                            margin: 2px;
+                                            object-fit: cover;
+                                            object-position: top;
+                                        }
+                                        .pho4 img {
+                                            border-style: solid;
+                                            border-width: 2px;
+                                            border-color: black;
+                                            border-radius: 6px;
+                                            margin: 2px;
+                                            object-fit: cover;
+                                            object-position: top;
+                                        }
+                                        .header  {
+                                            overflow: auto;
+                                            padding-top: 10px;
+                                            padding-bottom: 10px;
+                                            padding-right: 10px;
+                                            background-color: #ffc400;
+                                            text-align: center;
+                                        }
+                                        .menu ul {
+                                            text-align: center;
+                                            padding-top: 20px;
+                                            padding-bottom: 20px;
+                                            text-decoration: none;
+                                        }
+                                        .menu li {
+                                            display: inline-block;
+                                            text-align: center;
+                                        }
+                                        .menu li a {
+                                            display: inline-block;
+                                            height: auto;
+                                            width: 120px;
+                                            color: purple;
+                                            padding: 10px;
+                                            margin: 4px;
+                                            text-align: center;
+                                            font-size: 24px;
+                                            font-weight: bold;
+                                            text-decoration: none;
+                                            border-radius: 4px;
+                                        }
+                                        .menu li a:hover {
+                                            color: white;
+                                        }
+                                        .footer ul {
+                                            text-align: center;
+                                            padding-top: 10px;
+                                            padding-bottom: 10px;
+                                            text-decoration: none;
+                                        }
+                                        .footer li {
+                                            display: inline-block;
+                                            text-align: center;
+                                        }
+                                        .footer li a {
+                                            display: inline-block;
+                                            height: auto;
+                                            width: auto;
+                                            color: #b9b9b9;
+                                            padding: 10px;
+                                            margin: 4px;
+                                            text-align: center;
+                                            font-size: 24px;
+                                            text-decoration: none;
+                                        }
+                                        .footer li a:hover {
+                                            color: purple;
+                                        }
+                                        .menu {
+                                            font-family: 'Bauhaus 93', sans-serif;
+    color: purple;
+                                        }
+                                        h1 {
+                                            font-family: 'Magneto', sans-serif;
+                                            color: purple ;
+                                            font-weight: bold;
+                                            font-size: 36px;
+                                        }
+                                        h2 {
+                                            font-family: 'Cooper Black', sans-serif;
+                                            color: purple ;
+                                            font-weight: bold;
+                                            font-size: 26px;
+                                        }
+                                        .main h1 {
+                                            overflow: auto;
+                                            margin-top: 40px;
+                                            margin-left: auto;
+                                            margin-right: auto;
+                                            width: 200px;
+                                            padding: 10px;
+                                            background-color: #ffe6a1;
+                                            color: purple;
+                                            font-weight: bold;
+                                            text-align: center;
+                                            border-radius: 30px;
+                                        }
+                                        .main1 h1 {
+                                            overflow: auto;
+                                            margin-top: 40px;
+                                            margin-left: auto;
+                                            margin-right: auto;
+                                            width: 200px;
+                                            padding: 10px;
+                                            background-color: #ffe6a1;
+                                            color: purple;
+                                            font-weight: bold;
+                                            text-align: center;
+                                            border-radius: 30px;
+                                        }
+                                        .main2 h1 {
+                                            overflow: auto;
+                                            margin-top: 40px;
+                                            margin-left: auto;
+                                            margin-right: auto;
+                                            width: 300px;
+                                            padding: 10px;
+                                            background-color: #ffe6a1;
+                                            color: purple;
+                                            font-weight: bold;
+                                            text-align: center;
+                                            border-radius: 30px;
+                                        }
+                                        .main3 h1 {
+                                            overflow: auto;
+                                            margin-top: 40px;
+                                            margin-left: auto;
+                                            margin-right: auto;
+                                            width: 400px;
+                                            padding: 10px;
+                                            background-color: #ffe6a1;
+                                            color: purple;
+                                            font-weight: bold;
+                                            text-align: center;
+                                            border-radius: 30px;
+                                        }
+                                        .main4 h1 {
+                                            overflow: auto;
+                                            margin-top: 40px;
+                                            margin-left: auto;
+                                            margin-right: auto;
+                                            width: 200px;
+                                            padding: 10px;
+                                            background-color: #ffe6a1;
+                                            color: purple;
+                                            font-weight: bold;
+                                            text-align: center;
+                                            border-radius: 30px;
+                                        }
+                                        .main3 h2 {
+                                            overflow: auto;
+                                            margin-top: 40px;
+                                            margin-left: auto;
+                                            margin-right: auto;
+                                            width: 200px;
+                                            padding: 10px;
+                                            background-color: #ffe6a1;
+                                            color: purple;
+                                            font-weight: bold;
+                                            text-align: center;
+                                            border-radius: 30px;
+                                        }
+                                        .main p {
+                                            display: inline-block;
+                                            height: auto;
+                                            width: 600px;
+                                            color: #333333;
+                                            background-color: #f5f5f5;
+                                            padding: 10px;
+                                            margin: 4px;
+                                            text-align: center;
+                                            font-size: 22px;
+                                            font-weight: bold;
+                                            text-decoration: none;
+                                            border-radius: 4px;
+                                        }
+                                        .main1 p {
+                                            display: inline-block;
+                                            height: auto;
+                                            width: 600px;
+                                            color: #333333;
+                                            background-color: #f5f5f5;
+                                            padding: 10px;
+                                            margin: 4px;
+                                            text-align: center;
+                                            font-size: 22px;
+                                            font-weight: bold;
+                                            text-decoration: none;
+                                            border-radius: 4px;
+                                        }
+                                        .main2 p {
+                                            display: inline-block;
+                                            height: auto;
+                                            width: 600px;
+                                            color: #333333;
+                                            background-color: #f5f5f5;
+                                            padding: 10px;
+                                            margin: 4px;
+                                            text-align: center;
+                                            font-size: 22px;
+                                            font-weight: bold;
+                                            text-decoration: none;
+                                            border-radius: 4px;
+                                        }
+                                        .main3 p {
+                                            display: inline-block;
+                                            height: auto;
+                                            width: 600px;
+                                            color: #333333;
+                                            background-color: #f5f5f5;
+                                            padding: 10px;
+                                            margin: 4px;
+                                            text-align: center;
+                                            font-size: 22px;
+                                            font-weight: bold;
+                                            text-decoration: none;
+                                            border-radius: 4px;
+                                        }
+                                        .main4 p {
+                                            display: inline-block;
+                                            height: auto;
+                                            width: 700px;
+                                            color: #333333;
+                                            background-color: #f5f5f5;
+                                            padding: 10px;
+                                            margin: 4px;
+                                            text-align: center;
+                                            font-size: 22px;
+                                            font-weight: bold;
+                                            text-decoration: none;
+                                            border-radius: 4px;
+                                        }
+                                        p { 
+                                            font-family: 'Bahnschrift SemiBold', sans-serif;
+                                            color: #333333;}
+                                            .footer h1 {
+                                                overflow: auto;
+                                                margin-top: 40px;
+                                                margin-left: auto;
+                                                margin-right: auto;
+                                                width: 300px;
+                                                padding: 10px;
+                                                background-color: #ececec;
+                                                color: #000000;
+                                                font-weight: bold;
+                                                text-align: center;
+                                                border-radius: 30px;
+                                            }
+                                            .footer h2 {
+                                                overflow: auto;
+                                                margin-top: 40px;
+                                                margin-left: auto;
+                                                margin-right: auto;
+                                                width: 500px;
+                                                padding: 10px;
+                                                background-color: #ececec;
+                                                color: #000000;
+                                                font-weight: bold;
+                                                text-align: center;
+                                                border-radius: 30px;
+                                            }
+                                            .footer {
+                                                font-family: 'Bauhaus 93', sans-serif;
+        color: purple;}
+        .footer p {
+            font-family: 'Bauhaus 93', sans-serif;
+color: rgb(255, 255, 255);}
+                                        
