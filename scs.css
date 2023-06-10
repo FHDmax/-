@@ -1,0 +1,564 @@
+body {
+    font-family: 'Tahoma', 'open sans', sans-serif; 
+}
+.header {
+    background-color: #006deb;
+    overflow: auto;
+}
+.menu {
+    background-color: #0055b6;
+    overflow: auto;
+}
+.main  {background-color: #f5f5f5;
+    overflow: auto; }
+    .main1  {background-color: #f5f5f5;
+        overflow: auto; }
+        .main2  {background-color: #f5f5f5;
+            overflow: auto; }
+            .main3  {background-color: #f5f5f5;
+                overflow: auto; }
+                .main4  {background-color: #f5f5f5;
+                    overflow: auto; }
+                    .main5  {background-color: #f5f5f5;
+                        overflow: auto; }
+                        .main6  {background-color: #f5f5f5;
+                            overflow: auto; }
+                            .main7  {background-color: #f5f5f5;
+                                overflow: auto; }
+                                .pho {
+                                    overflow: auto;
+                                    background-color: #F0EDE4; } 
+                                    .pho1 {
+                                        overflow: auto;
+                                        background-color: #F0EDE4; }  
+                                        .pho2 {
+                                            overflow: auto;
+                                            background-color: #F0EDE4; } 
+                                            .pho3 {
+                                                overflow: auto;
+                                                background-color: #F0EDE4; } 
+                                                .pho4 {
+                                                    overflow: auto;
+                                                    background-color: #F0EDE4; } 
+                                                    .pho5 {
+                                                        overflow: auto;
+                                                        background-color: #F0EDE4; }                     
+                                                        .footer {
+                                                            background-color: rgb(10, 10, 10);
+                                                            overflow: auto;
+                                                        } 
+                                                        .main  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .main1  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .main2  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .main3  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .main4  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .main5  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .main6  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .main7  {
+                                                            overflow: auto;
+                                                            text-align: center;
+                                                            background-color: #f5f5f5;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                        }
+                                                        .pho {
+                                                            overflow: auto;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 40px;
+                                                            text-align: center;
+                                                            background-color: #F0EDE4;
+                                                        }
+                                                        .pho1 {
+                                                            overflow: auto;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 40px;
+                                                            text-align: center;
+                                                            background-color: #F0EDE4;
+                                                        }
+                                                        .pho2 {
+                                                            overflow: auto;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 40px;
+                                                            text-align: center;
+                                                            background-color: #F0EDE4;
+                                                        }
+                                                        .pho3 {
+                                                            overflow: auto;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 40px;
+                                                            text-align: center;
+                                                            background-color: #F0EDE4;
+                                                        }
+                                                        .pho4 {
+                                                            overflow: auto;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 40px;
+                                                            text-align: center;
+                                                            background-color: #F0EDE4;
+                                                        }
+                                                        .pho5 {
+                                                            overflow: auto;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 40px;
+                                                            text-align: center;
+                                                            background-color: #F0EDE4;
+                                                        }
+                                                        .footer {
+                                                            overflow: auto;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                            text-align: center;
+                                                            background-color: rgb(10, 10, 10);
+                                                        }
+                                                        .pho img {
+                                                            border-style: solid;
+                                                            border-width: 2px;
+                                                            border-color: #0055b6;
+                                                            border-radius: 6px;
+                                                            margin: 2px;
+                                                            
+                                                            object-position: top;
+                                                        }
+                                                        .pho1 img {
+                                                            border-style: solid;
+                                                            border-width: 2px;
+                                                            border-color: #0055b6;
+                                                            border-radius: 6px;
+                                                            margin: 2px;
+                                                            
+                                                            object-position: top;
+                                                        }
+                                                        .pho2 img {
+                                                            border-style: solid;
+                                                            border-width: 2px;
+                                                            border-color: #0055b6;
+                                                            border-radius: 6px;
+                                                            margin: 2px;
+                                                            
+                                                            object-position: top;
+                                                        }
+                                                        .pho3 img {
+                                                            border-style: solid;
+                                                            border-width: 2px;
+                                                            border-color: #0055b6;
+                                                            border-radius: 6px;
+                                                            margin: 2px;
+                                                            
+                                                            object-position: top;
+                                                        }
+                                                        .pho4 img {
+                                                            border-style: solid;
+                                                            border-width: 2px;
+                                                            border-color: #0055b6;
+                                                            border-radius: 6px;
+                                                            margin: 2px;
+                                                            
+                                                            object-position: top;
+                                                        }
+                                                        .pho5 img {
+                                                            border-style: solid;
+                                                            border-width: 2px;
+                                                            border-color: #0055b6;
+                                                            border-radius: 6px;
+                                                            margin: 2px;
+                                                            
+                                                            object-position: top;
+                                                        }
+                                                        .menu ul {
+                                                            text-align: center;
+                                                            padding-top: 20px;
+                                                            padding-bottom: 20px;
+                                                            text-decoration: none;
+                                                        }
+                                                        .menu li {
+                                                            display: inline-block;
+                                                            text-align: center;
+                                                        }
+                                                        .menu li a {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 150px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .menu li a:hover {
+                                                            background-color: #bcdbf5;
+                                                        }
+                                                        .footer ul {
+                                                            text-align: center;
+                                                            padding-top: 10px;
+                                                            padding-bottom: 10px;
+                                                            text-decoration: none;
+                                                        }
+                                                        .footer li {
+                                                            display: inline-block;
+                                                            text-align: center;
+                                                        }
+                                                        .footer li a {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: auto;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 20px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                        }
+                                                        .footer li a:hover {
+                                                            background-color: #bcdbf5;
+                                                        }
+                                                        .main h1 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main1 h1 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main2 h1 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main3 h2 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main4 h2 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main5 h2 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main6 h2 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main7 h2 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main1 h3 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 300px;
+                                                            padding: 10px;
+                                                            background-color: #bcdbf5;
+                                                            color: #0055b6;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .main p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .main1 p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .main2 p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .main3 p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .main4 p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .main5 p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .main6 p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        .main7 p {
+                                                            display: inline-block;
+                                                            height: auto;
+                                                            width: 600px;
+                                                            color: #333333;
+                                                            background-color: #f5f5f5;
+                                                            padding: 10px;
+                                                            margin: 4px;
+                                                            text-align: center;
+                                                            font-size: 18px;
+                                                            font-weight: bold;
+                                                            text-decoration: none;
+                                                            border-radius: 4px;
+                                                        }
+                                                        body {
+                                                            margin: 0;
+                                                        }
+                                                        .footer h1 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 300px;
+                                                            padding: 10px;
+                                                            background-color: #ececec;
+                                                            color: #000000;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        .footer p {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 300px;
+                                                            padding: 10px;
+                                                            background-color: #ececec;
+                                                            color: #000000;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }   
+                                                        .header h1 {
+                                                            overflow: auto;
+                                                            margin-top: 40px;
+                                                            margin-left: auto;
+                                                            margin-right: auto;
+                                                            width: 400px;
+                                                            padding: 10px;
+                                                            background-color: #00254e;
+                                                            color: #ffffff;
+                                                            font-weight: bold;
+                                                            text-align: center;
+                                                            border-radius: 30px;
+                                                        }
+                                                        @media screen and (max-width: 800px) {
+                                                            img {
+                                                        width:300px;
+                                                        height:auto;
+                                                            }
+                                                        }
+                                                        @media screen and (max-width: 800px) {
+                                                            img {
+                                                        width: 70%;
+                                                        height: auto;
+                                                            } 
+                                                        }
+                                                        @media screen and (max-width: 900px) {
+                                                            .photos img {
+                                                                width: 50%;
+                                                                height: auto;
+                                                            }
+                                                            
+                                                        }
+                                                        @media screen and (max-width: 700px) {
+                                                            .photos img {
+                                                                width: 70%;
+                                                                height: auto;
+                                                            }
+                                                            
+                                                        }
+                                                        @media screen and (max-width: 700px) {
+                                                            .menu li {
+                                                                display: block;
+                                                                text-align: center;
+                                                            }
+                                                        }
